@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Agents Project
 
 A multi-agent workflow built with crewai. It supports research, writing, summarization, reviewing, and email delivery (SMTP send). You can run it via a Streamlit UI or a CLI.
@@ -150,3 +151,6 @@ flowchart TD
 
 ## License
 MIT
+=======
+# Crew-AI-Agents
+>>>>>>> f08b1214194dc69e2b65c9dc6afe1f125281d5a9
